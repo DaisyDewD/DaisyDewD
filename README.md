@@ -2,10 +2,9 @@
 <div align = "left">
  
 ## Hi, I’m Daisy <img src="https://media.giphy.com/media/uwuwyUfda0pxn2aM8X/giphy.gif" width="29px"> 
-* 👀 I’m interested in IA🗨️, AR 🤳🏿 and Frontend development 👩‍💻.
-* 🌱 I finished "Certified Tech Developer" at Digital House 🇦🇷 (Remote).
-* 🦾 I'm strengthening my knowledge in React.
-* 💞️ I’m looking to collaborate in a big company.
+* I’m interested in IA, WCAG and Frontend development.
+* I finished "Certified Tech Developer" at Digital House 🇦🇷 (Remote).
+* I'm strengthening my knowledge in React.
 * Download my CV in <a href="https://www.daisydew.works/docs/CV-DeisyGarzon2024.pdf">🇪🇸</a> or <a href="https://www.daisydew.works/docs/CV-DeisyGarzon2024-en.pdf">🇺🇲</a>.
 * My [portfolio](https://www.daisydew.works) web and design.
 
@@ -36,7 +35,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
 </div>
 <br>
-<img src="https://www.daisydew.works/images/bannergit.png" alt="banner"  width="700"/>
 
 
 <!--- 📫 How to reach me: daisygarzon.work 
